@@ -1,6 +1,6 @@
 # secretsapp
 
-This app is a clone of the Google's Keeper app, where the users (only the authorized users) can share their deepest darkest secrets anonymously! Without letting anybody know.
+This app is a clone of the Google's Whisper app, where the users (only the authorized users) can share their deepest darkest secrets anonymously! Without letting anybody know.
 
 The beautiful homepage :
 
